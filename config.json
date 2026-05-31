@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheepdate",
+        "uuid": 11674593,
+        "checksum": "1amge"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
